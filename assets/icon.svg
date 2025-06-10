@@ -1,0 +1,13 @@
+<!-- Currently Google extensions doesn't suport SVG icons - This icon was used to create the PNG one -->
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M23.6667 3H12.3333L18 13L23.6667 3Z" fill="#188038" />
+    <path d="M29.3333 33L35 23H23.6667L29.3333 33Z" fill="#EA4335" />
+    <path d="M1 23L6.66667 33L12.3333 23H1Z" fill="#1967D2" />
+    <path d="M23.6667 23H12.3333L6.66667 33H29.3333L23.6667 23Z" fill="#4285F4" />
+    <path d="M18 13L23.6667 23H35L23.6667 3L18 13Z" fill="#FBBC04" />
+    <path d="M12.3333 23L18 13L12.3333 3L1 23H12.3333Z" fill="#34A853" />
+    <rect x="21" y="20" width="14" height="14" rx="1" fill="#EA4335" />
+    <path
+        d="M28 29.7778V22M28 29.7778L24.5714 26.4444M28 29.7778L29.7143 28.1111L31.4286 26.4444M24 32H32"
+        stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
